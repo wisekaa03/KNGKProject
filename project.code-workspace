@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "eslint.autoFixOnSave": true,
+    "javascript.validate.enable": false
+  }
+}
